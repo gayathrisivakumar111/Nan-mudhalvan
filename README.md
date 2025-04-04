@@ -1,4 +1,4 @@
-💋<head>
+<head>
 
    <title>RESULT WINDOW</title>
 
